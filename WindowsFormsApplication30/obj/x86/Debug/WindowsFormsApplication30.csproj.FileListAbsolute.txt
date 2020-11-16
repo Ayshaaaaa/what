@@ -1,0 +1,8 @@
+c:\users\majnoon_pc\documents\visual studio 2010\Projects\WindowsFormsApplication30\WindowsFormsApplication30\bin\Debug\WindowsFormsApplication30.exe
+c:\users\majnoon_pc\documents\visual studio 2010\Projects\WindowsFormsApplication30\WindowsFormsApplication30\bin\Debug\WindowsFormsApplication30.pdb
+c:\users\majnoon_pc\documents\visual studio 2010\Projects\WindowsFormsApplication30\WindowsFormsApplication30\obj\x86\Debug\WindowsFormsApplication30.Form1.resources
+c:\users\majnoon_pc\documents\visual studio 2010\Projects\WindowsFormsApplication30\WindowsFormsApplication30\obj\x86\Debug\WindowsFormsApplication30.Properties.Resources.resources
+c:\users\majnoon_pc\documents\visual studio 2010\Projects\WindowsFormsApplication30\WindowsFormsApplication30\obj\x86\Debug\WindowsFormsApplication30.csproj.GenerateResource.Cache
+c:\users\majnoon_pc\documents\visual studio 2010\Projects\WindowsFormsApplication30\WindowsFormsApplication30\obj\x86\Debug\WindowsFormsApplication30.exe
+c:\users\majnoon_pc\documents\visual studio 2010\Projects\WindowsFormsApplication30\WindowsFormsApplication30\obj\x86\Debug\WindowsFormsApplication30.pdb
+c:\users\majnoon_pc\documents\visual studio 2010\Projects\WindowsFormsApplication30\WindowsFormsApplication30\obj\x86\Debug\WindowsFormsApplication30.Form2.resources
